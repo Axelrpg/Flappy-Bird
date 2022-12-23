@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BT - Ordinance Storage.mp3-63cb1c1d0634955e348c2e465d418525.mp3str"
+
+[deps]
+
+source_file="res://music/BT - Ordinance Storage.mp3"
+dest_files=[ "res://.import/BT - Ordinance Storage.mp3-63cb1c1d0634955e348c2e465d418525.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
