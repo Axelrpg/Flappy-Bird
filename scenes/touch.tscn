@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://sprites/touch.png" type="Texture" id=1]
+
+[node name="touch" type="TouchScreenButton"]
+scale = Vector2( 22.5, 40 )
+normal = ExtResource( 1 )
+action = "jump"
+visibility_mode = 1
