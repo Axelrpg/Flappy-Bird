@@ -20,7 +20,7 @@ position = Vector2( 75, 320 )
 wait_time = 2.0
 autostart = true
 
-[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+[node name="music" type="AudioStreamPlayer2D" parent="."]
 position = Vector2( 180, 320 )
 stream = ExtResource( 3 )
 autoplay = true
